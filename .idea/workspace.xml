@@ -1,14 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e240498-5b8c-425c-a217-93f4edc569ef" name="Changes" comment="" />
+    <list default="true" id="2e240498-5b8c-425c-a217-93f4edc569ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Whatsapp-chat-analyzer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0408427822669934" />
+      <entry key="MS500" value="1.927303092014094" />
+      <entry key="S2" value="5.440134190728062" />
+      <entry key="S5" value="10.066170422254862" />
+      <entry key="S10" value="13.22306837480547" />
+      <entry key="S30" value="16.17828244731738" />
+      <entry key="S60" value="17.05665095764693" />
+      <entry key="M2" value="17.52098490212487" />
+      <entry key="M5" value="18.497850638562415" />
+      <entry key="M10" value="24.475807257842284" />
+      <entry key="M15" value="32.13657335922767" />
+      <entry key="M30" value="50.50687451883329" />
+      <entry key="H1" value="81.10326276206105" />
+      <entry key="H2" value="149.47513178903216" />
+      <entry key="H4" value="273.6865693114708" />
+      <entry key="D1" value="772.9625634971362" />
+      <entry key="W1" value="1038.634104233705" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="5.143425219773311E-268" />
+      <entry key="S5" value="1.2147893431653725E-107" />
+      <entry key="S10" value="3.485631962398194E-54" />
+      <entry key="S30" value="1.6168632010907834E-18" />
+      <entry key="S60" value="1.7745714602177283E-9" />
+      <entry key="M2" value="8.384387000964667E-5" />
+      <entry key="M5" value="0.07334083592201893" />
+      <entry key="M10" value="0.7804526340725669" />
+      <entry key="M15" value="1.746449879169728" />
+      <entry key="M30" value="3.9687213164658393" />
+      <entry key="H1" value="6.17918586077887" />
+      <entry key="H2" value="8.082079035844414" />
+      <entry key="H4" value="9.932298673281482" />
+      <entry key="D1" value="18.16056138748267" />
+      <entry key="W1" value="22.956683483694267" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9646980506728398" />
+      <entry key="MS500" value="1.899093205769508" />
+      <entry key="S2" value="5.406116669977561" />
+      <entry key="S5" value="10.035969853342252" />
+      <entry key="S10" value="13.202455124963196" />
+      <entry key="S30" value="16.169722690562196" />
+      <entry key="S60" value="17.0521225386167" />
+      <entry key="M2" value="17.51873247625865" />
+      <entry key="M5" value="18.567808300598696" />
+      <entry key="M10" value="25.243153131477047" />
+      <entry key="M15" value="33.86412335605528" />
+      <entry key="M30" value="54.45452057401328" />
+      <entry key="H1" value="87.26508858096642" />
+      <entry key="H2" value="157.54270323300258" />
+      <entry key="H4" value="283.60595766984903" />
+      <entry key="D1" value="791.1160025573718" />
+      <entry key="W1" value="1061.5893555170273" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3,
@@ -21,17 +101,34 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SHELLCHECK.PATH": "C:\\Users\\saura\\AppData\\Roaming\\JetBrains\\PyCharm2026.1\\plugins\\Shell Script\\shellcheck.exe",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "D:/Machine Learning Project/Whatsapp-chat-analyzer",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Machine Learning Project\Whatsapp-chat-analyzer" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -46,8 +143,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1781344014582</updated>
-      <workItem from="1781344015547" duration="31000" />
+      <workItem from="1781344015547" duration="45444000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
